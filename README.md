@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odogwu-ML
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning and all things computer science.
-- 🌱 I’m currently learning Machine Learning and Deep learning.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, and computer science.
+- 📚 Currently learning and growing in the world of software engineering
 - 💞️ I’m looking to collaborate on Python and Machine Learning Projects.
 - 📫 How to reach me odogwuml01@gmail.com
 
